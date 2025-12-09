@@ -32,8 +32,6 @@ A feature-rich cross-platform weather application built with Flutter, providing 
 - **API:** OpenWeatherMap REST API
 - **Database:** SharedPreferences (Local Storage)
 
-### Project Structure
-
 
 ## 🚀 Getting Started
 
